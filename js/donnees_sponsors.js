@@ -28,15 +28,5 @@ const lesSponsors = [
     nom: "AIESME",
     image: "img/AIESME.png",
     lien: "#"
-  },
-  {
-    nom: "AIESME",
-    image: "img/AIESME.png",
-    lien: "#"
-  },
-  {
-    nom: "AIESME",
-    image: "img/AIESME.png",
-    lien: "#"
   }
 ];

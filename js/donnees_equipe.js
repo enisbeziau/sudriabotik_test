@@ -2,7 +2,7 @@ const lesMembresEquipe = [
   {
     nom: "Vincent BOIZEAU",
     role: "Encadrant",
-    image: "../img/robot_2015_1.jpg", 
+    image: "./img/boizeau.jpg", 
     description1: "Encadrant historique de Sudriabotik",
     description2: "Accompagne l'association depuis plusieurs années"
   },
@@ -20,14 +20,6 @@ const lesMembresEquipe = [
     description1: "4ème année à l'ESME",
     description2: "2 ans à Sudriabotik"
   },
-  {
-    nom: "Diane LAUWEREINS",
-    role: "Resp. Mécanique",
-    image: "img/Diane.jpg",
-    description1: "4ème année à l'ESME",
-    description2: "2 ans à Sudriabotik"
-  }
-  ,
   {
     nom: "Diane LAUWEREINS",
     role: "Resp. Mécanique",
